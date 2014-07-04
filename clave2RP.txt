@@ -1,0 +1,5 @@
+     Con esta información podrá accesar a nuestro Sistema por medio de las páginas: www.alcaldiadebarquisimeto.gov.ve; o http://200.90.20.149, donde deberá cargar la Información de las personas que trabajarán en nuestra Feria en representación de su empresa. Adicionalmente deberá cargar la fotografía tipo Carnet digitalizada, con las siguientes características:
+Formato del Archivo: jpg o gif
+Tamaño máximo en Pixeles: 250 x 380
+Tamaño máximo en KB: 30
+NOTA: Las Credenciales Rotativas no requieren registro ya que no son personalizadas.

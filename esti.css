@@ -1,0 +1,68 @@
+ 
+<style type="text/css">
+
+
+
+#punte {
+        overflow:auto; 
+			  border-style:dashed; 
+			  border-color:555555; 
+			  border-width: 1px;
+			 
+          }
+#menu_line {
+		   width: 800px;
+		   height: 155px;
+			 
+}
+#punte_line {
+      			overflow:auto; 
+			      border-color:555555;
+						border-width: 1px;
+						border-bottom-style:  dashed ;
+						border-top-style: dashed  ;
+						border-left-style:none;
+						border-right-style:none;
+			      }
+#solid_line {
+      			background-color:ffffff;
+						/*overflow:auto; 
+			      border-style:solid;
+			      border-color:#3300cc; 
+			      border-width: 1px;*/
+			      }
+						
+#campo{
+       background-color: transparent;
+			 border-color:#3300cc;
+			 border-bottom-style:solid;
+			 border-left-style:none;
+			 border-right-style:none;
+			 border-top:none;
+      }
+#boton{
+       background-color:#ffffff;
+       border-color:#3300cc;
+			 border-bottom-style: ridge;
+			 border-left-style:  ridge;
+			 border-right-style: ridge;
+			 border-top:   ridge ;
+			 }			
+td {
+	font-family:verdana,arial;
+	font-size:11pt;
+	
+	}
+.estilotabla{
+	background-color:#ccffcc;
+	border-style:dashed;
+	border-color:666666;
+	border-width:1px;
+}	
+.estilocelda{
+	background-color:#ff9900;
+	color:#333333;
+	font-weight:bold;
+	font-size:11pt;
+															
+</style>

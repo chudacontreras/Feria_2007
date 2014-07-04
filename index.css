@@ -1,0 +1,208 @@
+.principal {
+	text-align: center;
+	border: 1px  #E0DFE3;
+	position: static;
+	width: 740px;
+	height:512px;
+	top: 0px;
+}
+textolink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #6A031E;
+	background-color: #D8D8D8;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #A2A7AB;
+}
+.titulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #6A041A;
+	background-color: #FDFDFD;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #989DA3;
+	text-align: center;
+	text-indent: 5px;
+}
+
+.central {
+	border: 1px #E0DFE3;
+	position: static;
+	height: 495px;
+	width: 400px;
+	float: left;
+}
+
+.central2 {
+	border: 1px #E0DFE3;
+	position: static;
+	height: 400px;
+	width: 500px;
+	float: right;
+	text-align:center;
+}
+
+.izq {
+
+	height: 14px;
+	width: 150px;
+	border:1px;
+	text-align: left;
+	margin-left: 0px;
+	margin-top:30px;
+	float:left;
+
+}
+
+.cuadroverti {
+
+	height: 250px;
+	width: 8px;
+	border:1px;
+	text-align: left;
+	margin-left: 20px;
+	margin-top:5px;
+	float:left;
+	background-image:url(Imagen/barravertical.gif);
+
+}
+
+.cuadrotexto{
+
+	height: 400px;
+	width: 540px;
+	border:0px;
+	text-align: justify;
+	margin-left: 0px;
+	margin-top:0px;
+	float:left;
+}
+
+
+.cuadrohori {
+
+	height: 8px;
+	width: 505px;
+	border:1px;
+	text-align: left;
+	margin-right:60px;
+	margin-top:3px;
+	float:right;
+	background-image: url(Imagen/barrahorizontal.gif);
+
+}
+.tabIzq {
+	border: 0px #0066FF;
+	width: 206;
+	height:600px;
+	float: left;
+}
+
+.tabInfe {
+	border: 0px dashed #0066FF;
+	background-image: url(Imagen/barraabajo.gif);
+	height: 10px;
+	width: 743px;
+	margin-top:305px;
+	background-repeat: no-repeat;
+}
+.columna {
+	text-align: left;
+	border: thin #990000;
+	width: 120px;
+	height:38px;
+	float: left;
+	margin-left:5px;
+	font-size: 9px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+background-color: #0066FF;
+overflow: hidden;
+width: 780px;
+margin: 10px auto 5px auto;
+border: 1px solid #CC0033;
+}
+
+.content {
+width: 580px;
+border-right: 100px solid; /* ancho y color del menú */
+margin-right: -100px;
+float: left;
+}
+
+.margenderecho {
+width: 130px;
+float: left;
+color: #FF99FF;
+background: #CC3399;
+text-align: left;
+}
+.bajo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #6A041A;
+	border: thin none #989DA3;
+}
+.principaltitulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #CC0000;
+}
+a:link {
+   color: #990000;
+   text-decoration: none; 
+   }
+a:visited {
+   color: #990000; 
+   text-decoration: none; 
+   }
+a:active {
+   color: #FF0000;
+   text-decoration: none; 
+   }
+a:hover {
+   color:#FF0000;
+   text-decoration: none;
+   }
+u {
+  color: #ff0000; 
+  text-decoration: none;
+   }
+
+i {
+   font-size: 11px; 
+   text-decoration: none;
+ }
+em {
+   font-weight: bold; 
+   color: #666666; 
+   text-decoration: none;
+}
+
+.encabezadotabla{
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:50px;
+  height:50px;
+  background-color: #CCCCCC;#EEEEEE
+}
+
+.cuerpotabla{
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:50px;
+  height:50px;
+  background-color: #EEEEEE;
+}
+
+.Estilo1 {font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #CC0000; background-color: #666666}
+-->
+</style>
